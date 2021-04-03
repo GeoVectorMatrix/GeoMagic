@@ -1,1 +1,1 @@
-# GeoMagic
+# GeoMagic Lab 
